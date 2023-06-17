@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cw4", "cw4\cw4.csproj", "{E86CE459-D15E-4C0F-97BD-105CE632C756}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_wypisz_od_tylu_i_2_najmniejszy_najwiekszy", "cw4\1_wypisz_od_tylu_i_2_najmniejszy_najwiekszy.csproj", "{E86CE459-D15E-4C0F-97BD-105CE632C756}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_sortowanie_babelkowe", "2_najwiekszy_najmniejszy\3_sortowanie_babelkowe.csproj", "{05191E49-7AD3-4004-AD24-DC1714E5B70C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_sortowanie_wstawianie", "4_sortowanie_wstawianie\4_sortowanie_wstawianie.csproj", "{21133B7C-387D-4620-9CB7-EEBEA12B7DE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_sortowanie_wybieranie", "5_sortowanie_wybieranie\5_sortowanie_wybieranie.csproj", "{197FF8F8-106C-4145-9D3E-4F6F205D5C06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{E86CE459-D15E-4C0F-97BD-105CE632C756}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E86CE459-D15E-4C0F-97BD-105CE632C756}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E86CE459-D15E-4C0F-97BD-105CE632C756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05191E49-7AD3-4004-AD24-DC1714E5B70C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05191E49-7AD3-4004-AD24-DC1714E5B70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05191E49-7AD3-4004-AD24-DC1714E5B70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05191E49-7AD3-4004-AD24-DC1714E5B70C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21133B7C-387D-4620-9CB7-EEBEA12B7DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21133B7C-387D-4620-9CB7-EEBEA12B7DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21133B7C-387D-4620-9CB7-EEBEA12B7DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21133B7C-387D-4620-9CB7-EEBEA12B7DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{197FF8F8-106C-4145-9D3E-4F6F205D5C06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{197FF8F8-106C-4145-9D3E-4F6F205D5C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{197FF8F8-106C-4145-9D3E-4F6F205D5C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{197FF8F8-106C-4145-9D3E-4F6F205D5C06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

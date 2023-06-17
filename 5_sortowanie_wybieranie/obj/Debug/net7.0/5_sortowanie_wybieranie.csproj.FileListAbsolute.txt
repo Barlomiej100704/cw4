@@ -1,0 +1,15 @@
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\5_sortowanie_wybieranie\bin\Debug\net7.0\5_sortowanie_wybieranie.exe
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\5_sortowanie_wybieranie\bin\Debug\net7.0\5_sortowanie_wybieranie.deps.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\5_sortowanie_wybieranie\bin\Debug\net7.0\5_sortowanie_wybieranie.runtimeconfig.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\5_sortowanie_wybieranie\bin\Debug\net7.0\5_sortowanie_wybieranie.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\5_sortowanie_wybieranie\bin\Debug\net7.0\5_sortowanie_wybieranie.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\5_sortowanie_wybieranie\obj\Debug\net7.0\5_sortowanie_wybieranie.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\5_sortowanie_wybieranie\obj\Debug\net7.0\5_sortowanie_wybieranie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\5_sortowanie_wybieranie\obj\Debug\net7.0\5_sortowanie_wybieranie.AssemblyInfoInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\5_sortowanie_wybieranie\obj\Debug\net7.0\5_sortowanie_wybieranie.AssemblyInfo.cs
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\5_sortowanie_wybieranie\obj\Debug\net7.0\5_sortowanie_wybieranie.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\5_sortowanie_wybieranie\obj\Debug\net7.0\5_sortowanie_wybieranie.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\5_sortowanie_wybieranie\obj\Debug\net7.0\refint\5_sortowanie_wybieranie.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\5_sortowanie_wybieranie\obj\Debug\net7.0\5_sortowanie_wybieranie.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\5_sortowanie_wybieranie\obj\Debug\net7.0\5_sortowanie_wybieranie.genruntimeconfig.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\5_sortowanie_wybieranie\obj\Debug\net7.0\ref\5_sortowanie_wybieranie.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\barte\\Documents\\Visual Studio 2022\\C#\\cw4\\cw4\\1_wypisz_od_tylu_i_2_najmniejszy_najwiekszy.csproj",
-      "projectName": "1_wypisz_od_tylu_i_2_najmniejszy_najwiekszy",
-      "projectPath": "C:\\Users\\barte\\Documents\\Visual Studio 2022\\C#\\cw4\\cw4\\1_wypisz_od_tylu_i_2_najmniejszy_najwiekszy.csproj",
+      "projectUniqueName": "C:\\Users\\barte\\Documents\\Visual Studio 2022\\C#\\cw4\\2_najwiekszy_najmniejszy\\3_sortowanie_babelkowe.csproj",
+      "projectName": "3_sortowanie_babelkowe",
+      "projectPath": "C:\\Users\\barte\\Documents\\Visual Studio 2022\\C#\\cw4\\2_najwiekszy_najmniejszy\\3_sortowanie_babelkowe.csproj",
       "packagesPath": "C:\\Users\\barte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\barte\\Documents\\Visual Studio 2022\\C#\\cw4\\cw4\\obj\\",
+      "outputPath": "C:\\Users\\barte\\Documents\\Visual Studio 2022\\C#\\cw4\\2_najwiekszy_najmniejszy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

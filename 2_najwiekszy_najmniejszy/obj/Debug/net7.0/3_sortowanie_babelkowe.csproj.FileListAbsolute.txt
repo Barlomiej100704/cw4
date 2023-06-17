@@ -1,0 +1,15 @@
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\2_najwiekszy_najmniejszy\bin\Debug\net7.0\3_sortowanie_babelkowe.exe
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\2_najwiekszy_najmniejszy\bin\Debug\net7.0\3_sortowanie_babelkowe.deps.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\2_najwiekszy_najmniejszy\bin\Debug\net7.0\3_sortowanie_babelkowe.runtimeconfig.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\2_najwiekszy_najmniejszy\bin\Debug\net7.0\3_sortowanie_babelkowe.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\2_najwiekszy_najmniejszy\bin\Debug\net7.0\3_sortowanie_babelkowe.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\2_najwiekszy_najmniejszy\obj\Debug\net7.0\3_sortowanie_babelkowe.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\2_najwiekszy_najmniejszy\obj\Debug\net7.0\3_sortowanie_babelkowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\2_najwiekszy_najmniejszy\obj\Debug\net7.0\3_sortowanie_babelkowe.AssemblyInfoInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\2_najwiekszy_najmniejszy\obj\Debug\net7.0\3_sortowanie_babelkowe.AssemblyInfo.cs
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\2_najwiekszy_najmniejszy\obj\Debug\net7.0\3_sortowanie_babelkowe.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\2_najwiekszy_najmniejszy\obj\Debug\net7.0\3_sortowanie_babelkowe.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\2_najwiekszy_najmniejszy\obj\Debug\net7.0\refint\3_sortowanie_babelkowe.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\2_najwiekszy_najmniejszy\obj\Debug\net7.0\3_sortowanie_babelkowe.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\2_najwiekszy_najmniejszy\obj\Debug\net7.0\3_sortowanie_babelkowe.genruntimeconfig.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\2_najwiekszy_najmniejszy\obj\Debug\net7.0\ref\3_sortowanie_babelkowe.dll

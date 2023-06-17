@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "1_wypisz_od_tylu/1.0.0": {
+        "runtime": {
+          "1_wypisz_od_tylu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1_wypisz_od_tylu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

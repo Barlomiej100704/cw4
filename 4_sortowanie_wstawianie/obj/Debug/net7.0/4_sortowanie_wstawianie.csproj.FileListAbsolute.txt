@@ -1,0 +1,15 @@
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\4_sortowanie_wstawianie\bin\Debug\net7.0\4_sortowanie_wstawianie.exe
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\4_sortowanie_wstawianie\bin\Debug\net7.0\4_sortowanie_wstawianie.deps.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\4_sortowanie_wstawianie\bin\Debug\net7.0\4_sortowanie_wstawianie.runtimeconfig.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\4_sortowanie_wstawianie\bin\Debug\net7.0\4_sortowanie_wstawianie.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\4_sortowanie_wstawianie\bin\Debug\net7.0\4_sortowanie_wstawianie.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\4_sortowanie_wstawianie\obj\Debug\net7.0\4_sortowanie_wstawianie.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\4_sortowanie_wstawianie\obj\Debug\net7.0\4_sortowanie_wstawianie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\4_sortowanie_wstawianie\obj\Debug\net7.0\4_sortowanie_wstawianie.AssemblyInfoInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\4_sortowanie_wstawianie\obj\Debug\net7.0\4_sortowanie_wstawianie.AssemblyInfo.cs
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\4_sortowanie_wstawianie\obj\Debug\net7.0\4_sortowanie_wstawianie.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\4_sortowanie_wstawianie\obj\Debug\net7.0\4_sortowanie_wstawianie.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\4_sortowanie_wstawianie\obj\Debug\net7.0\refint\4_sortowanie_wstawianie.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\4_sortowanie_wstawianie\obj\Debug\net7.0\4_sortowanie_wstawianie.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\4_sortowanie_wstawianie\obj\Debug\net7.0\4_sortowanie_wstawianie.genruntimeconfig.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\4_sortowanie_wstawianie\obj\Debug\net7.0\ref\4_sortowanie_wstawianie.dll

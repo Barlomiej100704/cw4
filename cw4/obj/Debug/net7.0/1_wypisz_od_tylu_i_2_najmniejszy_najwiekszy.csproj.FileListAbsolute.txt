@@ -1,0 +1,15 @@
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\cw4\bin\Debug\net7.0\1_wypisz_od_tylu_i_2_najmniejszy_najwiekszy.exe
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\cw4\bin\Debug\net7.0\1_wypisz_od_tylu_i_2_najmniejszy_najwiekszy.deps.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\cw4\bin\Debug\net7.0\1_wypisz_od_tylu_i_2_najmniejszy_najwiekszy.runtimeconfig.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\cw4\bin\Debug\net7.0\1_wypisz_od_tylu_i_2_najmniejszy_najwiekszy.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\cw4\bin\Debug\net7.0\1_wypisz_od_tylu_i_2_najmniejszy_najwiekszy.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\cw4\obj\Debug\net7.0\1_wypisz_od_tylu_i_2_najmniejszy_najwiekszy.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\cw4\obj\Debug\net7.0\1_wypisz_od_tylu_i_2_najmniejszy_najwiekszy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\cw4\obj\Debug\net7.0\1_wypisz_od_tylu_i_2_najmniejszy_najwiekszy.AssemblyInfoInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\cw4\obj\Debug\net7.0\1_wypisz_od_tylu_i_2_najmniejszy_najwiekszy.AssemblyInfo.cs
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\cw4\obj\Debug\net7.0\1_wypisz_od_tylu_i_2_najmniejszy_najwiekszy.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\cw4\obj\Debug\net7.0\1_wypisz_od_tylu_i_2_najmniejszy_najwiekszy.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\cw4\obj\Debug\net7.0\refint\1_wypisz_od_tylu_i_2_najmniejszy_najwiekszy.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\cw4\obj\Debug\net7.0\1_wypisz_od_tylu_i_2_najmniejszy_najwiekszy.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\cw4\obj\Debug\net7.0\1_wypisz_od_tylu_i_2_najmniejszy_najwiekszy.genruntimeconfig.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw4\cw4\obj\Debug\net7.0\ref\1_wypisz_od_tylu_i_2_najmniejszy_najwiekszy.dll
